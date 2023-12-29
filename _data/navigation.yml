@@ -1,11 +1,3 @@
 main:
   - title: "About Me"
     url: /about/
-  - title: "Posts"
-    url: /posts/
-  - title: "Pages"
-    url: /pages/
-  - title: "Pages"
-    url: /pages/
-  - title: "Pages"
-    url: /pages/

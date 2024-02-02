@@ -3,6 +3,8 @@ layout: single
 permalink: /projects/
 title: Projects
 date: 2024-01-03
+toc: true
+toc_sticky: true
 ---
 
 {% for project in site.data.projects %}

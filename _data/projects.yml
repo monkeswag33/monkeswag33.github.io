@@ -8,7 +8,7 @@
   repository: archive-tool
   description: >
     I started this project in October 2022. While learning about compression algorithms and CMake, I decided to create a tool like tar, that would take in a directory and compress it to a file. It is written in C and while it is a small project, it taught me a lot about compression and archiving tools.
-- name: Compressor/Decompressor
+- name: Compressor
   img: /assets/coffee.jpg
   repository: compressor-zig
   description: >

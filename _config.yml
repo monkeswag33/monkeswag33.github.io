@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -34,7 +34,9 @@ search                   : false
 author:
   name             : "Ishan Karmakar"
   avatar           : /assets/coffee.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : >
+    I am Ishan Karmakar, an 8th grader at Canyon Ridge Middle School.
+    I love backend and low level programming, and I know Javascript, Java, C++, C, and Python.
   location         : "Austin, TX"
   email            : "ishan.karmakar24@gmail.com"
   github           : "monkeswag33"

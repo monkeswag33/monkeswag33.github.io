@@ -5,7 +5,6 @@
 {% endif %}
 
 <div class="feature__wrapper {% if include.border != false %}border{% endif %}">
-
   {% for f in feature_row %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %} feature__item--{{ feature_row.size }}">
       <div class="archive__item">

@@ -12,4 +12,4 @@
   img: /assets/coffee.jpg
   repository: compressor-zig
   description: >
-    While learning about Zig and Huffman Coding, I wanted to experiment with it. Huffman Coding works by representing each byte as a combination of bits, so if a file uses the same characters multiple times, they can be represented by less than 8 bits. Through this project, I learned a lot about compression algorithms and the challenges with them.
+    While learning about Zig and Huffman Coding, I wanted to experiment with it. Huffman Coding works by representing each byte as a combination of bits, so if a file uses the same characters multiple times, they can be represented by less than 8 bits. Through this project, I learned a lot about compression algorithms.

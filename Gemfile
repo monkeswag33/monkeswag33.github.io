@@ -1,9 +1,5 @@
-require "uri"
-require "net/http"
-require "json"
 source "https://rubygems.org"
 
-github_version = JSON.parse(Net::HTTP.get_response(URI("https://pages.github.com/versions.json")).body)["github-pages"]
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -17,6 +13,6 @@ github_version = JSON.parse(Net::HTTP.get_response(URI("https://pages.github.com
 # gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", github_version, group: :jekyll_plugins
+gem "github-pages", 228, group: :jekyll_plugins
 
 # gem "faraday-retry", "~> 2.2"

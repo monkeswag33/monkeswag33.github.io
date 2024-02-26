@@ -5,5 +5,7 @@ main:
     url: /projects/
   - title: Extracurriculars
     url: /extracurriculars/
+  - title: Experience
+    url: /experience
   - title: Contact Me
     url: "mailto:ishan.karmakar24@gmail.com"

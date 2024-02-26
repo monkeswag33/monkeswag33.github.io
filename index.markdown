@@ -23,5 +23,10 @@ feature_row:
     excerpt: What I do outside of school
     url: /extracurriculars/
     btn_class: "btn--primary"
+  - image_path: /assets/coffee.jpg
+    title: Experience
+    excerpt: Experiences that have shaped me
+    url: /experience
+    btn_class: "btn--primary"
 ---
 {% include feature_row border=false %}

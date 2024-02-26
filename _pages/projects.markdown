@@ -35,6 +35,5 @@ projects:
 
 {% for project in page.projects %}
 ## [{{ project.name }}](https://github.com/{{ site.author.github }}/{{ project.repository }})
-<!-- <img src="{{ project.img }}" width=300 class="{% cycle 'align-left', 'align-right' %}"> -->
 <div class="projects-div">{{ project.description }}</div>
 {% endfor %}

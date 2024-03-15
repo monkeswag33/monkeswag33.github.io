@@ -33,7 +33,7 @@ search                   : false
 # Site Author
 author:
   name             : "Ishan Karmakar"
-  avatar           : /assets/coffee.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : >
     I am Ishan Karmakar, an 8th grader at Canyon Ridge Middle School.
     I love backend and low level programming, and I use Javascript, Java, C++, C, and Python.

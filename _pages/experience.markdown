@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Experience
-permalink: /experience/
+title: Volunteering
+permalink: /volunteering/
 toc: true
 toc_sticky: true
 
